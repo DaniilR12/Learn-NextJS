@@ -1,0 +1,15 @@
+.post-container{
+    padding: 20px 40px 10px;
+}
+
+.back-btn{
+    display: block;
+    width: 60px;
+    height: 30px;
+    text-align: center;
+    align-content: center;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: rgb(1, 151, 96);
+    border-radius: 5px;
+}

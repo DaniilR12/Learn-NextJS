@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+span{
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+a:hover{
+    color: rgb(9, 195, 195);
+}
